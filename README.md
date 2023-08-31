@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📍 San Francisco, CA<br>📚 Computer Science Student<br>📦 Building an iOS / MacOS app<br><br>🗒️ Portafolio: <br>https://ignaciojuarez.com</p>
+<p align="left">📍 San Francisco, CA<br>📚 Computer Science student<br>📦 Building an iOS / MacOS app<br><br>🗒️ Portafolio: <br>https://ignaciojuarez.com</p>
 
 ###
 
