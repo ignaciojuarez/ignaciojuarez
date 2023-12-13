@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">📍 San Francisco, CA<br>📚 Computer Science student<br>📦 Building an iOS / MacOS app<br><br>🗒️ Portafolio: <br>https://ignaciojuarez.com</p>
+<p align="left">🧑🏻‍💻 Hi!  I'm Ignacio. 📍SF <br> 📚 Student and iOS Software Eng.<br> 📦 Building Xcode Project<br><br>🗒️ Portafolio: https://ignaciojuarez.com</p>
 
 ###
 
